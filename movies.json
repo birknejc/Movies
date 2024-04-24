@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "director": "Frank Darabont",
+      "actors": ["Tim Robbins", "Morgan Freeman"],
+      "release_year": 1994,
+      "rating": 9.3,
+      "image": "../images/TheShwshank.jpg"
+    },
+    {
+      "title": "The Godfather",
+      "genre": "Crime",
+      "director": "Francis Ford Coppola",
+      "actors": ["Marlon Brando", "Al Pacino"],
+      "release_year": 1972,
+      "rating": 9.2,
+      "image": "../images/TheGodfather.jpg"
+    },
+    {
+      "title": "The Dark Knight",
+      "genre": "Action",
+      "director": "Christopher Nolan",
+      "actors": ["Christian Bale", "Heath Ledger"],
+      "release_year": 2008,
+      "rating": 9.0,
+      "image": "../images/TheDarkKnight.jpg"
+    },
+    {
+      "title": "Forrest Gump",
+      "genre": "Drama",
+      "director": "Robert Zemeckis",
+      "actors": ["Tom Hanks", "Robin Wright"],
+      "release_year": 1994,
+      "rating": 8.8,
+      "image": "../images/Forrest Gump.jpg"
+    },
+    {
+      "title": "The Matrix",
+      "genre": "Sci-Fi",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actors": ["Keanu Reeves", "Laurence Fishburne"],
+      "release_year": 1999,
+      "rating": 8.7,
+      "image": "../images/TheMatrix.jpg"
+    },
+    {
+      "title": "The Lion King",
+      "genre": "Animation",
+      "director": "Roger Allers, Rob Minkoff",
+      "actors": ["Matthew Broderick", "James Earl Jones"],
+      "release_year": 1994,
+      "rating": 8.5,
+      "image": "../images/TheLioniKing.jpg"
+    },
+    {
+      "title": "The Social Network",
+      "genre": "Drama",
+      "director": "David Fincher",
+      "actors": ["Jesse Eisenberg", "Andrew Garfield"],
+      "release_year": 2010,
+      "rating": 7.7,
+      "image": "../images/TheSocialNetwork.jpg"
+    },
+    {
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "director": "Christopher Nolan",
+      "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+      "release_year": 2010,
+      "rating": 8.8,
+      "image": "../images/inception.jpg"
+    }
+  ]
+}
